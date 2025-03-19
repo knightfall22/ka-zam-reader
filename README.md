@@ -1,6 +1,4 @@
-<p align="center">
   <img src="showcase/img/logo.png" width="300" alt="Centered Image">
-</p>
 
 ## Ka-Zam Reader
 
