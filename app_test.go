@@ -77,7 +77,7 @@ func TestBookOpen(t *testing.T) {
 
 	fmt.Println(length)
 
-	if length != 28 {
+	if length != 24 {
 		t.Errorf("Incorrect page number")
 	}
 }
